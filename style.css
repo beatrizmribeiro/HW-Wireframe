@@ -6,8 +6,8 @@ body {
 		text-align: center;
 		line-height: 50px;
 		color:#777;
-		margin-right: 3cm;
-		margin-left: 3cm;
+		margin-right: 5cm;
+		margin-left: 5cm;
 
       }
 
@@ -33,7 +33,7 @@ nav {
 section {
 	background-color: #ebebeb;
 	float: left;
-	width: 50%;
+	width: 55%;
 	
 	
 
@@ -77,7 +77,7 @@ p{
 
 aside {
 	background-color: #ebebeb;
-	width:47%;
+	width:40%;
 	float:right;
 	line-height: 258px;
 
